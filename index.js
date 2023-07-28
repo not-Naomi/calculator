@@ -104,7 +104,7 @@ function computeAns() {
 
     resultValue = String(resultValue)
     result.innerHTML = resultValue
-    firstValue = ""
+    firstValue = resultValue
     secondValue = ""
     sign = ""
     isFirstValue = true
